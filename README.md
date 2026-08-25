@@ -5,6 +5,10 @@ Um sistema de **Visão Computacional em Tempo Real** desenvolvido em Python e Op
 
 ## Demonstração
 
+https://github.com/MarcosFeitosa0408/Parking_Intelligence/blob/main/carPark.mp4
+
+https://github.com/MarcosFeitosa0408/Parking_Intelligence/blob/main/CarParkPos
+
 https://github.com/MarcosFeitosa0408/Parking_Intelligence/blob/main/ParkingSpacePicker.py
 
 ParkingSpacePicker.py

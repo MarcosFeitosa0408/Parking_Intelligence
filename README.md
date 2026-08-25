@@ -1,21 +1,11 @@
 # Parking_Intelligence
 Análise inteligente de ocupação de estacionamentos com Python, visão computacional, KPIs e geração de insights para tomada de decisão.
 
-
-# Parking_Intelligence
-
 Um sistema de **Visão Computacional em Tempo Real** desenvolvido em Python e OpenCV para monitoramento inteligente de estacionamentos, realizando a identificação automática de vagas **livres e ocupadas** a partir de imagens ou vídeos.
 
 ## Demonstração
 
 ![Demonstração do Parking_Intelligence](demo_Parking_Intelligence_reduzido.gif)
-
-O projeto utiliza técnicas de processamento digital de imagens, análise de regiões de interesse (ROI) e classificação visual para identificar o estado das vagas em tempo real.
-
-
-# Parking_Intelligence
-
-Um sistema de **Visão Computacional em Tempo Real** desenvolvido em Python e OpenCV para monitoramento inteligente de estacionamentos, realizando a identificação automática de vagas **livres e ocupadas** a partir de imagens ou vídeos.
 
 O projeto utiliza técnicas de processamento digital de imagens, análise de regiões de interesse (ROI) e classificação visual para identificar o estado das vagas em tempo real.
 
